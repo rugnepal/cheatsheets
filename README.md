@@ -12,11 +12,17 @@ A collections of useful R packages cheatsheets
 ## Data Manipulations
 
 [Data Wrangling - Dplyr and Tidyr](https://github.com/rugnepal/cheatsheets/blob/master/dplyr-tidyr-data-wrangling-cheatsheet.pdf)
+
 [Data.Table - Fast Manipulation](https://github.com/rugnepal/cheatsheets/blob/master/datatable.pdf)
+
 [Data Transformation with Dplyr](https://github.com/rugnepal/cheatsheets/blob/master/data-transformation.pdf)
+
 [Dtplyr - data.table backend of dplyr](https://github.com/rugnepal/cheatsheets/blob/master/dtplyr.pdf)
+
 [Date Manipulation](https://github.com/rugnepal/cheatsheets/blob/master/lubridate-data-time.pdf)
+
 [String Manipulation](https://github.com/rugnepal/cheatsheets/blob/master/stringr-manuipulation.pdf)
+
 [Apply functions with purrr](https://github.com/rugnepal/cheatsheets/blob/master/purrr-apply.pdf)
 
 
@@ -31,7 +37,9 @@ A collections of useful R packages cheatsheets
 ## Machine Learning
 
 [H20](https://github.com/rugnepal/cheatsheets/blob/master/h2o.pdf)
+
 [MLR](https://github.com/rugnepal/cheatsheets/blob/master/mlr.pdf)
+
 [Caret](https://github.com/rugnepal/cheatsheets/blob/master/caret.pdf)
 
 ## Dashboard
