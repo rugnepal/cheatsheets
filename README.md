@@ -45,23 +45,23 @@ A collections of useful R packages cheatsheets
 
 ## Dashboard
 
-[Shiny](https://github.com/rugnepal/cheatsheets/blob/master/shiny-web-app.pdf)
+[Shiny - Web framework for Dashboard](https://github.com/rugnepal/cheatsheets/blob/master/shiny-web-app.pdf)
 
 ## Machine Learning
 
-[H20](https://github.com/rugnepal/cheatsheets/blob/master/h2o.pdf)
+[H20 - Java Based Machine Learning Library](https://github.com/rugnepal/cheatsheets/blob/master/h2o.pdf)
 
-[MLR](https://github.com/rugnepal/cheatsheets/blob/master/mlr.pdf)
+[MLR - Wrapper for Machine Learning Algorithms](https://github.com/rugnepal/cheatsheets/blob/master/mlr.pdf)
 
-[Caret](https://github.com/rugnepal/cheatsheets/blob/master/caret.pdf)
+[Caret - Classification and Regression Training](https://github.com/rugnepal/cheatsheets/blob/master/caret.pdf)
 
 ## Deep Learning
 
-[Keras](https://github.com/rugnepal/cheatsheets/blob/master/keras.pdf)
+[Keras - R Interface for Tensorflow](https://github.com/rugnepal/cheatsheets/blob/master/keras.pdf)
 
 ## Big Data
 
-[Sparklyr](https://github.com/rugnepal/cheatsheets/blob/master/sparklyr-big-data.pdf)
+[Sparklyr - Spark backend for dplyr](https://github.com/rugnepal/cheatsheets/blob/master/sparklyr-big-data.pdf)
 
 ## Integrated Development Environment
 
